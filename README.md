@@ -34,8 +34,6 @@ Author: Nate Newhart and Colin Whitty, 2026
 | Ultrasonic VCC | 5V |
 | Ultrasonic GND | GND |
 
-The button uses `INPUT_PULLUP`, so no external resistor is needed. The pin reads LOW when pressed.
-
 ## Getting started
 
 1. Wire the circuit as shown above.
